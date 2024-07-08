@@ -317,6 +317,7 @@ img{
 
 .lll{
     display: flex;
+    flex: 1;
     height: 500px;
     width: auto;
     text-align: center;
@@ -376,6 +377,7 @@ img{
 
 .section1-img{
     height: 110vh;
+    width: 100%;
     position: relative;
     background: url("https://www.makelots.com/wp-content/uploads/2023/02/blog-3-1390x810.jpg") no-repeat;
     position: center;
