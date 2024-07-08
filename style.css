@@ -583,6 +583,14 @@ img{
         gap: 2rem;
         /* width: 100%; */
     }
+    .lll{
+        height: 400px;
+        width: 400px;
+        text-align: center;
+        justify-content: center;
+        align-items: center;
+        margin: auto;
+    }
 
     .dm{
         margin-top: 20px;
@@ -672,9 +680,18 @@ img{
 @media (max-width:600px) {
     .footer{
         display: grid;
-        grid-template-columns: repeat(2,minmax(0,1fr));
+        grid-template-columns: repeat(1,minmax(0,1fr));
         gap: 2rem;
         width: 100%;
+    }
+
+    .ms-img{
+        height: 400px;
+        width: 400px;
+        text-align: center;
+        justify-content: center;
+        align-items: center;
+        margin: auto;
     }
     /* .header{
         display: flex;
