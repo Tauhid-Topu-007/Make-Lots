@@ -674,6 +674,14 @@ img{
         margin-bottom: 70px;
         margin-top: 50px;
     }
+    .ms-img{
+        height: 300px;
+        width: 300px;
+        text-align: center;
+        justify-content: center;
+        align-items: center;
+        margin: auto;
+    }
 }
 
 
