@@ -375,11 +375,12 @@ img{
 
 /* learning resource starts  */
 
-.section1-img{
+.uuu{
     height: 110vh;
     width: 100%;
     position: relative;
-    background: url("https://www.makelots.com/wp-content/uploads/2023/02/blog-3-1390x810.jpg") no-repeat;
+    /* background: url("https://www.makelots.com/wp-content/uploads/2023/02/blog-3-1390x810.jpg") no-repeat; */
+    background-repeat: no-repeat;
     position: center;
     background-size: cover;
     justify-content: center;
