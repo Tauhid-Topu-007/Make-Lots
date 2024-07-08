@@ -328,8 +328,9 @@ img{
 /* donate start  */
 .dona{
     background: url(images/katt-yukawa-K0E6E0a0R3A-unsplash.jpg) no-repeat ;
+    background-position: center;
     background-size: cover;
-    height: 130vh;
+    height: auto;
     width: 100%;
     display: flex;
 }
@@ -351,7 +352,7 @@ img{
     flex: 1;
     color:#fff;
     flex-direction: column;
-    border: 1px solid black;
+    /* border: 1px solid black; */
 }
 
 .donate-ds .ddd{
@@ -377,6 +378,7 @@ img{
     height: 110vh;
     position: relative;
     background: url("https://www.makelots.com/wp-content/uploads/2023/02/blog-3-1390x810.jpg") no-repeat;
+    position: center;
     background-size: cover;
     justify-content: center;
     align-items: center;
